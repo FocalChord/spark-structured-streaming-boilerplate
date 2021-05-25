@@ -1,0 +1,6 @@
+- Open this project on IntelliJ
+- Let Maven install all dependencies
+- Before running `Main.scala`
+- Go to a terminal and run `nc -lk 9999`
+- Now run `Main.scala`
+- On the terminal window, type in words. These should be aggregated in the IntelliJ window.
